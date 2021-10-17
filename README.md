@@ -2,7 +2,6 @@
 
 ## Goal
 The goal of this project is to explore the depths of machine learning with python.
-And if you ever get overwhelmed by the sheer amount of possibilites, me and you can come back here for the fundamentals.
 Therefore the implementations shall be comprehensible, not trimmed to be computationally efficient. 
 
  - [Plan](#plan)
